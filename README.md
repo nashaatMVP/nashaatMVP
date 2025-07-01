@@ -2,7 +2,7 @@
 
 📱 I specialize in creating robust, scalable, and visually refined apps using Flutter. Whether it’s implementing clean UI/UX or architecting app logic and state management, I aim for high performance and maintainable code.
 
-💼 My experience includes delivering solutions for clients in the UAE, Saudi Arabia, France, and the Netherlands—helping turn ideas into real, user-friendly products.
+💼 My experience includes delivering solutions for clients in the UAE, Saudi Arabia, Egypt, and the Germany helping turn ideas into real, user friendly products.
 
 🚀 I bring a strong focus on clean architecture, reusable components, and problem-solving to every project. Let’s build something impactful together.
 
