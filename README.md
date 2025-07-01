@@ -1,4 +1,10 @@
-## Hi there 👋
+👋 Hello! I’m a Flutter Developer with nearly 2 years of experience building modern mobile applications across onsite and freelance roles in the UAE.
+
+📱 I specialize in creating robust, scalable, and visually refined apps using Flutter. Whether it’s implementing clean UI/UX or architecting app logic and state management, I aim for high performance and maintainable code.
+
+💼 My experience includes delivering solutions for clients in the UAE, Saudi Arabia, France, and the Netherlands—helping turn ideas into real, user-friendly products.
+
+🚀 I bring a strong focus on clean architecture, reusable components, and problem-solving to every project. Let’s build something impactful together.
 
 <!--
 **nashaatMVP/nashaatMVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
