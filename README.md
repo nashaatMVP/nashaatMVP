@@ -12,19 +12,19 @@
   <tr>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=com.example.app1" target="_blank">
-        <img src="https://play-lh.googleusercontent.com/zIKI5uYSwcx9ym8lktnCDpDe0kdH1aw-kQer5NyflPSBcvgBFF0K3kA68w304jH8NKmX=w480-h960-rw" alt="App 1" width="200"/><br/>
+        <img src="https://play-lh.googleusercontent.com/zIKI5uYSwcx9ym8lktnCDpDe0kdH1aw-kQer5NyflPSBcvgBFF0K3kA68w304jH8NKmX=w480-h960-rw" alt="App 1" width="150"/><br/>
         <b>Qoot</b>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/yourusername/app2" target="_blank">
-        <img src="https://play-lh.googleusercontent.com/KTLbxx5TQyjNRCn4YKdtjC6b5Vk9RAELgTqtAduUPThvZxaeP6r0M3FpeUZSYuJutBuu=w480-h960-rw" alt="App 2" width="200"/><br/>
+        <img src="https://play-lh.googleusercontent.com/KTLbxx5TQyjNRCn4YKdtjC6b5Vk9RAELgTqtAduUPThvZxaeP6r0M3FpeUZSYuJutBuu=w480-h960-rw" alt="App 2" width="150"/><br/>
         <b>OXA</b>
       </a>
     </td>
     <td align="center">
       <a href="https://example.com/demo/app3" target="_blank">
-        <img src="https://play-lh.googleusercontent.com/6qlqqZUPe8r40vARk5abR8B4wuTTmP7zAie8iQdjXVOjpIBXEDVUAZ3ejLxAqgxRtA=w480-h960-rw" alt="App 3" width="200"/><br/>
+        <img src="https://play-lh.googleusercontent.com/6qlqqZUPe8r40vARk5abR8B4wuTTmP7zAie8iQdjXVOjpIBXEDVUAZ3ejLxAqgxRtA=w480-h960-rw" alt="App 3" width="150"/><br/>
         <b>Qoot Admin</b>
       </a>
     </td>
