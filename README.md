@@ -86,7 +86,7 @@
           width="100"
           style="border-radius:15px;"
         /><br/>
-        <strong>Qoot&nbsp;Admin</strong>
+        <strong>Qoot Admin</strong>
       </a>
     </td>
   </tr>
