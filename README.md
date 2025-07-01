@@ -29,6 +29,18 @@
         <strong>Qoot</strong>
       </a>
     </td>
+     <!-- Salla  -->
+    <td align="center">
+      <a href="https://github.com/yourusername/app2" target="_blank">
+        <img
+          src="https://github.com/nashaatMVP/nashaatMVP/blob/main/salla.png"
+          alt="Salla"
+          width="100"
+          style="border-radius:15px;"
+        /><br/>
+        <strong>Salla</strong>
+      </a>
+    </td>
     <!-- Crave -->
     <td align="center">
       <a href="https://github.com/nashaatMVP/nashaatMVP/blob/main/crave.png" target="_blank">
@@ -57,7 +69,7 @@
     <td align="center">
       <a href="https://github.com/yourusername/app2" target="_blank">
         <img
-          src="https://play-lh.googleusercontent.com/KTLbxx5TQyjNRCn4YKdtjC6b5Vk9RAELgTqtAduUPThvZxaeP6r0M3FpeUZSYuJutBuu=w480-h960-rw"
+          src="https://github.com/nashaatMVP/nashaatMVP/blob/main/sallaAdmin.png"
           alt="Salla Admin"
           width="100"
           style="border-radius:15px;"
