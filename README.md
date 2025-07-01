@@ -69,12 +69,11 @@
     <td align="center">
       <a href="https://github.com/yourusername/app2" target="_blank">
         <img
-          src="https://github.com/nashaatMVP/nashaatMVP/blob/main/sallaAdmin.png"
+          src="https://raw.githubusercontent.com/nashaatMVP/nashaatMVP/main/sallaAdmin.png"
           alt="Salla Admin"
-          width="100"
-          style="border-radius:15px;"
+          style="width:100px;height:auto;border-radius:15px;"
         /><br/>
-        <strong>Salla Admin</strong>
+        <strong>Salla&nbsp;Admin</strong>
       </a>
     </td>
     <!-- Qoot Admin -->
@@ -83,10 +82,9 @@
         <img
           src="https://play-lh.googleusercontent.com/6qlqqZUPe8r40vARk5abR8B4wuTTmP7zAie8iQdjXVOjpIBXEDVUAZ3ejLxAqgxRtA=w480-h960-rw"
           alt="Qoot Admin"
-          width="100"
-          style="border-radius:15px;"
+          style="width:100px;height:auto;border-radius:15px;"
         /><br/>
-        <strong>Qoot Admin</strong>
+        <strong>Qoot&nbsp;Admin</strong>
       </a>
     </td>
   </tr>
