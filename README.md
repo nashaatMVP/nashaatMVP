@@ -31,9 +31,9 @@
     </td>
     <!-- Crave -->
     <td align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.example.app1" target="_blank">
+      <a href="https://drive.google.com/file/d/13HBCk5rmlrT0amsMWDguXsJkaoxy-fUn/view?usp=sharing" target="_blank">
         <img
-          src="https://drive.google.com/uc?export=view&id=183apC9aS9p3ACCY7thpegtdOG_jNeXvR"
+          src="https://drive.google.com/file/d/13HBCk5rmlrT0amsMWDguXsJkaoxy-fUn/view?usp=sharing"
           alt="Crave"
           width="100"
           style="border-radius:15px;"
