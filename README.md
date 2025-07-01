@@ -31,9 +31,9 @@
     </td>
     <!-- Crave -->
     <td align="center">
-      <a href="https://drive.google.com/file/d/13HBCk5rmlrT0amsMWDguXsJkaoxy-fUn/view?usp=sharing" target="_blank">
+      <a href="https://github.com/nashaatMVP/nashaatMVP/blob/main/crave.png" target="_blank">
         <img
-          src="https://drive.google.com/file/d/13HBCk5rmlrT0amsMWDguXsJkaoxy-fUn/view?usp=sharing"
+          src="https://github.com/nashaatMVP/nashaatMVP/blob/main/crave.png"
           alt="Crave"
           width="100"
           style="border-radius:15px;"
@@ -51,6 +51,18 @@
           style="border-radius:15px;"
         /><br/>
         <strong>OXA</strong>
+      </a>
+    </td>
+    <!-- Salla Admin -->
+    <td align="center">
+      <a href="https://github.com/yourusername/app2" target="_blank">
+        <img
+          src="https://play-lh.googleusercontent.com/KTLbxx5TQyjNRCn4YKdtjC6b5Vk9RAELgTqtAduUPThvZxaeP6r0M3FpeUZSYuJutBuu=w480-h960-rw"
+          alt="Salla Admin"
+          width="100"
+          style="border-radius:15px;"
+        /><br/>
+        <strong>Salla Admin</strong>
       </a>
     </td>
     <!-- Qoot Admin -->
