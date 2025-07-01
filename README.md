@@ -17,40 +17,56 @@
 
 <table align="center">
   <tr>
+    <!-- Qoot -->
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=com.example.app1" target="_blank">
         <img
           src="https://play-lh.googleusercontent.com/zIKI5uYSwcx9ym8lktnCDpDe0kdH1aw-kQer5NyflPSBcvgBFF0K3kA68w304jH8NKmX=w480-h960-rw"
-          alt="App 1"
+          alt="Qoot"
           width="100"
           style="border-radius:15px;"
         /><br/>
-        <b>Qoot</b>
+        <strong>Qoot</strong>
       </a>
     </td>
+    <!-- Crave -->
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.example.app1" target="_blank">
+        <img
+          src="https://drive.google.com/uc?export=view&id=183apC9aS9p3ACCY7thpegtdOG_jNeXvR"
+          alt="Crave"
+          width="100"
+          style="border-radius:15px;"
+        /><br/>
+        <strong>Crave</strong>
+      </a>
+    </td>
+    <!-- OXA -->
     <td align="center">
       <a href="https://github.com/yourusername/app2" target="_blank">
         <img
           src="https://play-lh.googleusercontent.com/KTLbxx5TQyjNRCn4YKdtjC6b5Vk9RAELgTqtAduUPThvZxaeP6r0M3FpeUZSYuJutBuu=w480-h960-rw"
-          alt="App 2"
+          alt="OXA"
           width="100"
           style="border-radius:15px;"
         /><br/>
-        <b>OXA</b>
+        <strong>OXA</strong>
       </a>
     </td>
+    <!-- Qoot Admin -->
     <td align="center">
       <a href="https://example.com/demo/app3" target="_blank">
         <img
           src="https://play-lh.googleusercontent.com/6qlqqZUPe8r40vARk5abR8B4wuTTmP7zAie8iQdjXVOjpIBXEDVUAZ3ejLxAqgxRtA=w480-h960-rw"
-          alt="App 3"
+          alt="Qoot Admin"
           width="100"
           style="border-radius:15px;"
         /><br/>
-        <b>Qoot Admin</b>
+        <strong>Qoot&nbsp;Admin</strong>
       </a>
     </td>
   </tr>
 </table>
+
 
 
