@@ -1,6 +1,6 @@
 # 👀 About Me:
 
-<br>👋 Hello! I’m a Flutter Developer with nearly 2 years of experience building modern mobile applications across onsite and freelance roles in the UAE.<br><br>📱 I specialize in creating robust, scalable, and visually refined apps using Flutter. Whether it’s implementing clean UI/UX or architecting app logic and state management, I aim for high performance and maintainable code.<br><br>💼 My experience includes delivering solutions for clients in the UAE, Saudi Arabia, Egypt, and the Germany helping turn ideas into real, user friendly products.<br><br>🚀 I bring a strong focus on clean architecture, reusable components, and problem-solving to every project. Let’s build something impactful together.
+<br>👋 Hello! I’m a Professional Flutter Developer 
 
 
 
